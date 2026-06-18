@@ -357,7 +357,6 @@ Please copy the IDs of resources like this:
 
 <img width="1600" height="900" alt="import 36" src="https://github.com/user-attachments/assets/74c7748d-16a6-4b1e-b99e-bb2ca53063b3" />
 
-<img width="1600" height="900" alt="import 37" src="https://github.com/user-attachments/assets/3f9b721d-cb08-417b-b4e7-8250b8123fd4" />
 
 
 Terraform import:
@@ -392,6 +391,9 @@ terraform import 'module.s3.aws_s3_bucket.imported_bucket' 'YOUR_ACTUAL_S3_BUCKE
 # Find its ID in the AWS console under VPC -> Security Groups (name "default")
 terraform import 'module.vpc.aws_default_security_group.default' 'YOUR_ACTUAL_DEFAULT_SECURITY_GROUP_ID_HERE'
 ```
+
+<img width="1600" height="900" alt="import 37" src="https://github.com/user-attachments/assets/3f9b721d-cb08-417b-b4e7-8250b8123fd4" />
+
 
 ### Verifying Configuration with Terraform Plan
 
