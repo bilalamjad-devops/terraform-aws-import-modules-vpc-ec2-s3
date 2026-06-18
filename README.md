@@ -279,7 +279,13 @@ Terraform init:
 terraform init
 ```
 
+### Import Existing AWS Resources (One by One)
 
+Please copy the IDs of resources like this:
+
+<img width="1600" height="900" alt="import 36" src="https://github.com/user-attachments/assets/74c7748d-16a6-4b1e-b99e-bb2ca53063b3" />
+
+<img width="1600" height="900" alt="import 37" src="https://github.com/user-attachments/assets/3f9b721d-cb08-417b-b4e7-8250b8123fd4" />
 
 
 Terraform import:
