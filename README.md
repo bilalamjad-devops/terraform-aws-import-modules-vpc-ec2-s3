@@ -1,5 +1,7 @@
 # Import Existing AWS Infrastructure into Terraform Modules (Step-by-Step Guide)
 
+<img width="1536" height="1024" alt="b9b2cbf2-ee3f-45b8-86ee-17813b789fe2" src="https://github.com/user-attachments/assets/412f5ab5-a420-4559-942b-efd04c755684" />
+
 
 Infrastructure as Code (IaC) is one of Terraform's greatest strengths, but what happens if your AWS resources already exist?
 
@@ -63,7 +65,7 @@ Notice that Terraform does not create new resources during the import process.
 
 Instead, it records the relationship between an existing AWS resource and the Terraform state file. Once imported, Terraform can manage that infrastructure just like resources it created itself.
 
-
+Note: my region is ap-south-1
 
 ## Phase 1: Manually Provisioning Infrastructure via AWS Console
 
