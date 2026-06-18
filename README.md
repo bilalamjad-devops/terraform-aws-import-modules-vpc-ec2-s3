@@ -35,6 +35,34 @@ Instead of rebuilding everything, Terraform Import allows you to connect those e
 
 This is an essential skill for DevOps Engineers, Cloud Engineers, and Platform Engineers working with existing AWS environments.
 
+
+
+
+Project Architecture
+
+Our project follows this workflow:
+```project-architecture
+AWS Console
+      │
+      ▼
+Create Infrastructure Manually
+      │
+      ▼
+Terraform Import
+      │
+      ▼
+Terraform State
+      │
+      ▼
+Terraform Plan
+```
+
+Notice that Terraform does not create new resources during the import process.
+
+Instead, it records the relationship between an existing AWS resource and the Terraform state file. Once imported, Terraform can manage that infrastructure just like resources it created itself.
+
+
+
 ### Create a Custom VPC:
 
 - Go to VPC Dashboard > Your VPCs > Create VPC.
