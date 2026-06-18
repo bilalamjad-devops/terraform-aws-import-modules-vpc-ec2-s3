@@ -26,6 +26,15 @@ By the end of this guide, Terraform will manage the following AWS resources:
 - Amazon S3 Bucket
 
 
+
+### Why Learn Terraform Import?
+
+In real-world environments, not every cloud resource is created with Terraform. Many organizations already have existing infrastructure that was created manually or by another team.
+
+Instead of rebuilding everything, Terraform Import allows you to connect those existing resources to your Terraform state, making them manageable through Infrastructure as Code.
+
+This is an essential skill for DevOps Engineers, Cloud Engineers, and Platform Engineers working with existing AWS environments.
+
 ### Create a Custom VPC:
 
 - Go to VPC Dashboard > Your VPCs > Create VPC.
