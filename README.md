@@ -38,7 +38,7 @@ This is an essential skill for DevOps Engineers, Cloud Engineers, and Platform E
 
 
 
-Project Architecture
+### Project Architecture
 
 Our project follows this workflow:
 ```project-architecture
