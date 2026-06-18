@@ -17,13 +17,13 @@ In this tutorial, we'll build an AWS environment manually using the AWS Manageme
 
 By the end of this guide, Terraform will manage the following AWS resources:
 
-Custom VPC
-Public Subnet
-Internet Gateway
-Route Table
-EC2 Instance
-Security Group
-Amazon S3 Bucket
+- Custom VPC
+- Public Subnet
+- Internet Gateway
+- Route Table
+- EC2 Instance
+- Security Group for EC2
+- Amazon S3 Bucket
 
 
 ### Create a Custom VPC:
