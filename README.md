@@ -122,6 +122,22 @@ Record the IGW ID (e.g., igw-xxxxxxxxxxxxxxxxx).
 - Associate with Subnet: Go to "Subnet associations" tab > "Edit subnet associations". Select your Public-subnet-a. Click "Save associations".
 
 
+<img width="1600" height="900" alt="import 18 routetable" src="https://github.com/user-attachments/assets/6a7283dc-b2fc-4017-88c2-d44bde8386e4" />
+
+<img width="1600" height="900" alt="import 19" src="https://github.com/user-attachments/assets/c14af0e8-7382-4efd-bfae-8a7ee6dd02ce" />
+
+<img width="1600" height="900" alt="import 20" src="https://github.com/user-attachments/assets/61b3ad3c-e46e-4fab-beb0-579eb3502dc8" />
+
+
+<img width="1600" height="900" alt="import 21" src="https://github.com/user-attachments/assets/6e9f4561-4f66-4a77-baaa-ada2f69faa5f" />
+
+
+<img width="1600" height="900" alt="import 22" src="https://github.com/user-attachments/assets/1a338969-ec54-4dee-b09f-345526930843" />
+
+<img width="1600" height="900" alt="import 23" src="https://github.com/user-attachments/assets/3a2f2d14-7561-4e83-9755-b2f45e2385c5" />
+
+<img width="1600" height="900" alt="import 24" src="https://github.com/user-attachments/assets/82f5dee9-41f1-4cd4-a052-56c494b0b99b" />
+
 
 
 
