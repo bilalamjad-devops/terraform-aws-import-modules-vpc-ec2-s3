@@ -1,4 +1,14 @@
-# terraform-aws-module-import-vpc-ec2-s3
+# Import Existing AWS Infrastructure into Terraform Modules (Step-by-Step Guide)
+
+
+Infrastructure as Code (IaC) is one of Terraform's greatest strengths, but what happens if your AWS resources already exist?
+
+This is a common situation for many engineers. Perhaps you manually created a VPC, launched an EC2 instance for testing, or provisioned an S3 bucket before learning Terraform. Recreating everything from scratch isn't always practical.
+
+Fortunately, Terraform provides the terraform import command, which allows you to bring existing infrastructure under Terraform management without recreating or deleting resources.
+
+
+
 Terraform import is a command that uses an existing cloud resource's unique ID to establish a link between that resource and your Terraform state, bringing it under Terraform's management.
 
 
