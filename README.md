@@ -262,6 +262,11 @@ Record the IGW ID (e.g., igw-xxxxxxxxxxxxxxxxx).
         └── outputs.tf
 ```
 
+### clone repository
+
+```git
+git clone
+```
 
 
 
