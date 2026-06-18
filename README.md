@@ -320,16 +320,27 @@ terraform import 'module.s3.aws_s3_bucket.imported_bucket' 'YOUR_ACTUAL_S3_BUCKE
 # Find its ID in the AWS console under VPC -> Security Groups (name "default")
 terraform import 'module.vpc.aws_default_security_group.default' 'YOUR_ACTUAL_DEFAULT_SECURITY_GROUP_ID_HERE'
 ```
+
+
 Terraform plan
+
+<img width="1600" height="900" alt="import 38" src="https://github.com/user-attachments/assets/5b3714fc-cf99-4aae-80ee-ca292f9f57d5" />
+
+
 ```bash
 terraform plan
 ```
+
+
+
 Terraform destroy:
 ```bash
 terraform destroy
 ```
 
+<img width="1600" height="900" alt="import 39" src="https://github.com/user-attachments/assets/fc4cfabf-40cc-4d51-bccf-c59cbda63cb3" />
 
+<img width="1600" height="900" alt="import 40" src="https://github.com/user-attachments/assets/17cf8f64-27ee-4d1d-b963-e26b707b5e64" />
 
 
 
