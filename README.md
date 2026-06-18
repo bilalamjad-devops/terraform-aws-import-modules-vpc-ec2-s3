@@ -138,6 +138,8 @@ A subnet divides a VPC into smaller networks. Since our EC2 instance needs inter
 
 ### Create an Internet Gateway (IGW):
 
+An Internet Gateway (IGW) allows resources inside a VPC to communicate with the internet. Without an IGW, instances in a public subnet cannot receive or send internet traffic.
+
 - Go to VPC Dashboard > Internet Gateways > Create internet gateway.
 
 - Name tag: `My-internet-gateway`
