@@ -271,12 +271,17 @@ Record the IGW ID (e.g., igw-xxxxxxxxxxxxxxxxx).
 git clone
 ```
 
+<img width="1600" height="900" alt="import 35 terraform init 35" src="https://github.com/user-attachments/assets/b48d497b-88e9-4973-863b-e3a53aed24b7" />
 
 
 Terraform init:
 ```bash
 terraform init
 ```
+
+
+
+
 Terraform import:
 ```bash
 # 1. Import the VPC
