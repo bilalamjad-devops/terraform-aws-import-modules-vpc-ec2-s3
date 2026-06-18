@@ -14,6 +14,17 @@ Terraform import is a command that uses an existing cloud resource's unique ID t
 
 - Click "Create VPC".
 
+<img width="1600" height="900" alt="import 1" src="https://github.com/user-attachments/assets/9151f291-4533-481d-a9ca-570280904018" />
+
+<img width="1600" height="900" alt="import 2" src="https://github.com/user-attachments/assets/ff79163f-993d-48dc-a2f1-fe04ef88191e" />
+
+<img width="1600" height="900" alt="import 3" src="https://github.com/user-attachments/assets/ca99eb8e-0f33-4dc7-a45d-eab41a574d70" />
+
+<img width="1600" height="900" alt="import 4" src="https://github.com/user-attachments/assets/27548895-3a14-4cd0-b4aa-5b01f387a4cd" />
+
+
+
+
 
 ### Create a Public Subnet:
 
