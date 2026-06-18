@@ -5,6 +5,8 @@ Infrastructure as Code (IaC) is one of Terraform's greatest strengths, but what 
 
 This is a common situation for many engineers. Perhaps you manually created a VPC, launched an EC2 instance for testing, or provisioned an S3 bucket before learning Terraform. Recreating everything from scratch isn't always practical.
 
+## The Challenge of Pre-Existing Cloud Resources
+
 Fortunately, Terraform provides the terraform import command, which allows you to bring existing infrastructure under Terraform management without recreating or deleting resources.
 
 
