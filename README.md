@@ -178,6 +178,33 @@ Record the IGW ID (e.g., igw-xxxxxxxxxxxxxxxxx).
 
 - Record the Custom Security Group ID (for My-EC2-SG, e.g., sg-xxxxxxxxxxxxxxxxx).
 
+
+<img width="1600" height="900" alt="import 25 ec2" src="https://github.com/user-attachments/assets/456bba4a-7d6d-4b76-8119-1e838728be18" />
+
+<img width="1600" height="900" alt="import 26" src="https://github.com/user-attachments/assets/a0bdb4ad-dc4f-4fa0-b851-bc5e152b9c43" />
+
+<img width="1600" height="900" alt="import 27" src="https://github.com/user-attachments/assets/429ff19d-791b-4c68-b4bd-9a501a80b323" />
+
+
+<img width="1600" height="900" alt="import 28" src="https://github.com/user-attachments/assets/5d98831a-3d18-4cb7-bb54-f7fe57eff7ac" />
+
+<img width="1600" height="900" alt="import 29" src="https://github.com/user-attachments/assets/bebebad9-5f23-48ed-8e82-86ae28d0d5aa" />
+
+
+<img width="1600" height="900" alt="import 30" src="https://github.com/user-attachments/assets/2704283f-04b3-4a05-b024-1d35990201dd" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Create an S3 Bucket:
 
 - Go to S3 Dashboard > Buckets > Create bucket.
