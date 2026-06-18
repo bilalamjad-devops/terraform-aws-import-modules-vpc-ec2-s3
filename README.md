@@ -428,3 +428,11 @@ In this project, we manually created AWS infrastructure and successfully importe
 Instead of recreating resources, Terraform now manages the existing infrastructure through its state file.
 
 This workflow is commonly used when organizations adopt Terraform after their cloud environment is already running.
+
+Please connect:
+
+- GitHub: https://github.com/bilalamjad-devops
+- Medium: https://medium.com/@bilalamjad-devops
+- LinkedIn: https://www.linkedin.com/in/bilalamjad-devops/
+
+18-June-2026
