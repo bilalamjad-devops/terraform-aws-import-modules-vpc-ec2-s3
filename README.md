@@ -290,15 +290,6 @@ A route table controls where network traffic is sent. We'll add a default route 
 
 - Record the S3 Bucket Name (e.g., my-existing-s3-bucket-name-08-july-2025).
 
-- Find Default Security Group ID:
-
-- Go to VPC Dashboard > Security Groups.
-
-- Filter by your new VPC ID (My-VPC).
-
-- Find the security group named default.
-
-- Record its Security Group ID (e.g., sg-xxxxxxxxxxxxxxxxx)
 
 <img width="1600" height="900" alt="import 31 s3" src="https://github.com/user-attachments/assets/e71b0542-1cfc-4950-bbef-f6f2fc028a39" />
 
