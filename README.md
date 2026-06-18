@@ -308,9 +308,10 @@ A route table controls where network traffic is sent. We'll add a default route 
 <img width="1600" height="900" alt="import 34" src="https://github.com/user-attachments/assets/76dfed0b-c99a-4940-a0e0-51543305e084" />
 
 
+## Phase 2: Designing the Target Modular Architecture
 
 
-## Terraform Project Setup
+### Project Directory Blueprint
 
 ```bash
 .
@@ -330,19 +331,22 @@ A route table controls where network traffic is sent. We'll add a default route 
         └── outputs.tf
 ```
 
-### clone repository
+### Initializing the Workspace
+
+### Clone the Repository
 
 <img width="1600" height="900" alt="import 35 clone" src="https://github.com/user-attachments/assets/baaac7c3-f8f5-4aac-bcc0-24ef3311272d" />
 
 
 ```git
-git clone
+git clone https://github.com/bilalamjad-devops/terraform-aws-import-modules-vpc-ec2-s3
 ```
 
 <img width="1600" height="900" alt="import 35 terraform init 35" src="https://github.com/user-attachments/assets/b48d497b-88e9-4973-863b-e3a53aed24b7" />
 
 
-Terraform init:
+### Terraform init:
+
 ```bash
 terraform init
 ```
