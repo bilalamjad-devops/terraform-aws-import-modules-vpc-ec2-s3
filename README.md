@@ -231,6 +231,15 @@ Record the IGW ID (e.g., igw-xxxxxxxxxxxxxxxxx).
 
 - Record its Security Group ID (e.g., sg-xxxxxxxxxxxxxxxxx)
 
+<img width="1600" height="900" alt="import 31 s3" src="https://github.com/user-attachments/assets/e71b0542-1cfc-4950-bbef-f6f2fc028a39" />
+
+<img width="1600" height="900" alt="import 32" src="https://github.com/user-attachments/assets/80f72938-05a6-4187-9bd7-c85899eab44a" />
+
+<img width="1600" height="900" alt="import 33" src="https://github.com/user-attachments/assets/5a3c2074-1e02-45ed-8789-c5638b2f571e" />
+
+<img width="1600" height="900" alt="import 34" src="https://github.com/user-attachments/assets/76dfed0b-c99a-4940-a0e0-51543305e084" />
+
+
 
 
 ## Terraform Project Setup
