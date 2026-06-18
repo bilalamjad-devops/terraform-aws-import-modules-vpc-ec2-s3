@@ -335,14 +335,10 @@ A route table controls where network traffic is sent. We'll add a default route 
 
 **Clone the Repository**
 
-<img width="1600" height="900" alt="import 35 clone" src="https://github.com/user-attachments/assets/baaac7c3-f8f5-4aac-bcc0-24ef3311272d" />
-
-
 ```git
 git clone https://github.com/bilalamjad-devops/terraform-aws-import-modules-vpc-ec2-s3
 ```
-
-<img width="1600" height="900" alt="import 35 terraform init 35" src="https://github.com/user-attachments/assets/b48d497b-88e9-4973-863b-e3a53aed24b7" />
+<img width="1600" height="900" alt="import 35 clone" src="https://github.com/user-attachments/assets/baaac7c3-f8f5-4aac-bcc0-24ef3311272d" />
 
 
 **Terraform init**
@@ -350,6 +346,8 @@ git clone https://github.com/bilalamjad-devops/terraform-aws-import-modules-vpc-
 ```bash
 terraform init
 ```
+
+<img width="1600" height="900" alt="import 35 terraform init 35" src="https://github.com/user-attachments/assets/b48d497b-88e9-4973-863b-e3a53aed24b7" />
 
 ## Phase 3: Mapping AWS Resources to Terraform State
 
