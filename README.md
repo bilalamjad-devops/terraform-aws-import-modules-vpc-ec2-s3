@@ -335,7 +335,7 @@ A route table controls where network traffic is sent. We'll add a default route 
 
 ### Initializing the Workspace
 
-**Clone the Repository**
+**Fork and Clone the Repository**
 
 ```git
 git clone https://github.com/bilalamjad-devops/terraform-aws-import-modules-vpc-ec2-s3
