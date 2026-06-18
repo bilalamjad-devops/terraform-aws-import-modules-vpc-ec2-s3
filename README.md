@@ -65,6 +65,11 @@ Instead, it records the relationship between an existing AWS resource and the Te
 
 ### Create a Custom VPC:
 
+A Virtual Private Cloud (VPC) is your own isolated network within AWS. It provides complete control over IP addressing, routing, and network security.
+
+In this project, we'll create a custom VPC so that all of our AWS resources belong to the same private network.
+
+
 - Go to VPC Dashboard > Your VPCs > Create VPC.
 
 - Choose "VPC only".
