@@ -49,6 +49,27 @@ Terraform import is a command that uses an existing cloud resource's unique ID t
 - CHECK "Enable auto-assign public IPv4 address". Click "Save".
 
 
+<img width="1600" height="900" alt="import 5 subnet" src="https://github.com/user-attachments/assets/ea55e0ff-1948-4b84-b226-bdf2ac42b9fb" />
+
+
+<img width="1600" height="900" alt="import 6" src="https://github.com/user-attachments/assets/02926fb8-9590-4ed5-b59f-e5d9c64aed75" />
+
+
+<img width="1600" height="900" alt="import 7" src="https://github.com/user-attachments/assets/5f0c0a9f-c989-4ed6-b1a1-24c8ee146afd" />
+
+
+<img width="1600" height="900" alt="import 8" src="https://github.com/user-attachments/assets/56a850a7-0c4f-43b9-bdd5-e2181dfdc506" />
+
+
+<img width="1600" height="900" alt="import 9" src="https://github.com/user-attachments/assets/3f685076-1721-4ffd-8886-5e2f6fd34488" />
+
+<img width="1600" height="900" alt="import 10" src="https://github.com/user-attachments/assets/899ddd47-8e31-4a8f-adf6-4264cd020600" />
+
+
+<img width="1600" height="900" alt="import 11" src="https://github.com/user-attachments/assets/f22b1293-3b6d-4c38-95a2-733429e81e40" />
+
+
+
 
 ### Create an Internet Gateway (IGW):
 
