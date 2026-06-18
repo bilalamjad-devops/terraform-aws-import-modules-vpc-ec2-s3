@@ -166,6 +166,8 @@ Record the IGW ID (e.g., igw-xxxxxxxxxxxxxxxxx).
 
 ### Create a Public Route Table:
 
+A route table controls where network traffic is sent. We'll add a default route (`0.0.0.0/0`) pointing to the Internet Gateway so that our public subnet has internet connectivity.
+
 - Go to VPC Dashboard > Route Tables > Create route table.
 
 - Name tag: `Public-route-table-a`
