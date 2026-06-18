@@ -264,6 +264,9 @@ Record the IGW ID (e.g., igw-xxxxxxxxxxxxxxxxx).
 
 ### clone repository
 
+<img width="1600" height="900" alt="import 35 clone" src="https://github.com/user-attachments/assets/baaac7c3-f8f5-4aac-bcc0-24ef3311272d" />
+
+
 ```git
 git clone
 ```
