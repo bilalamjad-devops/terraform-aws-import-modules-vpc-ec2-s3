@@ -12,6 +12,20 @@ Fortunately, Terraform provides the terraform import command, which allows you t
 Terraform import is a command that uses an existing cloud resource's unique ID to establish a link between that resource and your Terraform state, bringing it under Terraform's management.
 
 
+
+In this tutorial, we'll build an AWS environment manually using the AWS Management Console and then import those resources into a modular Terraform project.
+
+By the end of this guide, Terraform will manage the following AWS resources:
+
+Custom VPC
+Public Subnet
+Internet Gateway
+Route Table
+EC2 Instance
+Security Group
+Amazon S3 Bucket
+
+
 ### Create a Custom VPC:
 
 - Go to VPC Dashboard > Your VPCs > Create VPC.
