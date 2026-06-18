@@ -83,6 +83,17 @@ Terraform import is a command that uses an existing cloud resource's unique ID t
 
 Record the IGW ID (e.g., igw-xxxxxxxxxxxxxxxxx).
 
+<img width="1600" height="900" alt="import 12 igw" src="https://github.com/user-attachments/assets/f894084d-f6d3-4ac1-8f46-36343fbb02eb" />
+
+<img width="1600" height="900" alt="import 13" src="https://github.com/user-attachments/assets/967a5fb3-835e-467d-a3c4-a9b3835df8db" />
+
+<img width="1600" height="900" alt="import 14" src="https://github.com/user-attachments/assets/323915de-fadb-46e9-94d3-16c37bc0a2aa" />
+
+<img width="1600" height="900" alt="import 15" src="https://github.com/user-attachments/assets/197bbab8-0992-4727-ac11-fad9071b70db" />
+
+<img width="1600" height="900" alt="import 16" src="https://github.com/user-attachments/assets/5c1f3929-c943-462d-a8c0-aeee5e8ff807" />
+
+<img width="1600" height="900" alt="import 17" src="https://github.com/user-attachments/assets/f7996440-29fc-48eb-9ddf-e5f92a599d2a" />
 
 
 
