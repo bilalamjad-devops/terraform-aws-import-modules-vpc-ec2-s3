@@ -398,12 +398,11 @@ terraform import 'module.vpc.aws_default_security_group.default' 'YOUR_ACTUAL_DE
 ### Verifying Configuration with Terraform Plan
 
 
-<img width="1600" height="900" alt="import 38" src="https://github.com/user-attachments/assets/5b3714fc-cf99-4aae-80ee-ca292f9f57d5" />
-
-
 ```bash
 terraform plan
 ```
+
+<img width="1600" height="900" alt="import 38" src="https://github.com/user-attachments/assets/5b3714fc-cf99-4aae-80ee-ca292f9f57d5" />
 
 ## Phase 4: Testing State Control via Tear-Down
 
