@@ -65,7 +65,23 @@ Instead, it records the relationship between an existing AWS resource and the Te
 
 
 
-### Create a Custom VPC:
+## Phase 1: Manually Provisioning Infrastructure via AWS Console
+
+1. Networking Foundation: Custom VPC
+
+2. Network Segmentation: Public Subnet
+
+3. Edge Routing: Internet Gateway (IGW)
+
+4. Traffic Management: Public Route Table
+
+5. Compute Layer: Launching the EC2 Instance
+
+6. Object Storage: Creating the Amazon S3 Bucket
+
+
+
+### 1. Networking Foundation: Custom VPC
 
 A Virtual Private Cloud (VPC) is your own isolated network within AWS. It provides complete control over IP addressing, routing, and network security.
 
@@ -91,7 +107,7 @@ A Virtual Private Cloud (VPC) is your own isolated network within AWS. It provid
 
 
 
-### Create a Public Subnet:
+### 2. Network Segmentation: Public Subnet
 
 A subnet divides a VPC into smaller networks. Since our EC2 instance needs internet access, we'll create a public subnet and configure it to automatically assign public IP addresses.
 
@@ -138,7 +154,7 @@ A subnet divides a VPC into smaller networks. Since our EC2 instance needs inter
 
 
 
-### Create an Internet Gateway (IGW):
+### 3. Edge Routing: Internet Gateway (IGW)
 
 An Internet Gateway (IGW) allows resources inside a VPC to communicate with the internet. Without an IGW, instances in a public subnet cannot receive or send internet traffic.
 
@@ -166,7 +182,7 @@ Record the IGW ID (e.g., igw-xxxxxxxxxxxxxxxxx).
 
 
 
-### Create a Public Route Table:
+### 4. Traffic Management: Public Route Table
 
 A route table controls where network traffic is sent. We'll add a default route (`0.0.0.0/0`) pointing to the Internet Gateway so that our public subnet has internet connectivity.
 
@@ -215,7 +231,7 @@ A route table controls where network traffic is sent. We'll add a default route 
 
 
 
-### Launch an EC2 Instance:
+### 5. Compute Layer: Launching the EC2 Instance
 
 - Go to EC2 Dashboard > Instances > Launch instances.
 
@@ -266,17 +282,7 @@ A route table controls where network traffic is sent. We'll add a default route 
 
 
 
-
-
-
-
-
-
-
-
-
-
-### Create an S3 Bucket:
+### 6. Object Storage: Creating the Amazon S3 Bucket
 
 - Go to S3 Dashboard > Buckets > Create bucket.
 
