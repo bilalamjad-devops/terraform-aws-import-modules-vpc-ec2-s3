@@ -351,7 +351,9 @@ git clone https://github.com/bilalamjad-devops/terraform-aws-import-modules-vpc-
 terraform init
 ```
 
-### Import Existing AWS Resources (One by One)
+## Phase 3: Mapping AWS Resources to Terraform State
+
+### Executing the Import Commands
 
 Please copy the IDs of resources like this:
 
@@ -393,8 +395,8 @@ terraform import 'module.s3.aws_s3_bucket.imported_bucket' 'YOUR_ACTUAL_S3_BUCKE
 terraform import 'module.vpc.aws_default_security_group.default' 'YOUR_ACTUAL_DEFAULT_SECURITY_GROUP_ID_HERE'
 ```
 
+### Verifying Configuration with Terraform Plan
 
-Terraform plan
 
 <img width="1600" height="900" alt="import 38" src="https://github.com/user-attachments/assets/5b3714fc-cf99-4aae-80ee-ca292f9f57d5" />
 
@@ -403,7 +405,7 @@ Terraform plan
 terraform plan
 ```
 
-
+## Phase 4: Testing State Control via Tear-Down
 
 Terraform destroy:
 ```bash
@@ -418,7 +420,7 @@ terraform destroy
 
 
 
-## Conclusion
+## Conclusion & Key Takeaways
 
 Congratulations! 🎉
 
